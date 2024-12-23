@@ -20,13 +20,7 @@
 
 title: Marina DEHEZ CLEMENTI
 email: m.dehezclementi@gmail.com
-description: |
-  Hi, I’m Marina Dehez Clementi! Welcome to my corner of the web.
-
-  I’m passionate about cybersecurity, teaching, and tech innovation.
-  Here, you’ll find course materials, research projects, and some of my thoughts on topics like cryptography, blockchain, and network security.
-
-  Whether you’re here to learn, collaborate, or just explore, I hope you find something inspiring. Let’s build secure, innovative tech together!
+description: |- 
 baseurl: "/mdehezcl" # the subpath of your site, e.g. /blog
 url: "https://mdehezcl.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb

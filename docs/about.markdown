@@ -3,16 +3,13 @@ layout: page
 title: About
 permalink: /about/
 ---
+# **Marina** DEHEZ CLEMENTI
+Professor Associate in Data and Network Security
+ISAE-SUPAERO, Toulouse, France
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi, I’m Marina Dehez Clementi! Welcome to my corner of the web.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I’m passionate about cybersecurity, teaching, and tech innovation.
+Here, you’ll find course materials, research projects, and some of my thoughts on topics like cryptography, blockchain, and network security.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Whether you’re here to learn, collaborate, or just explore, I hope you find something inspiring. Let’s build secure, innovative tech together!
