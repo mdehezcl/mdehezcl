@@ -3,9 +3,7 @@ layout: page
 title: Teaching
 permalink: /teaching/
 ---
-## Teaching Experience
-
-### **Responsibility for Courses/Teaching**
+#### **Responsibility for Courses/Teaching**
 - **FITR302 Introduction à la cybersécurité**, ISAE-SUPAERO - Toulouse
   _30 hours (12C, 18TP) | Role: Responsable, intervenante_  
   **In-person:** 18 hours (9C, 9TP) | _Since 2022_
@@ -18,12 +16,12 @@ permalink: /teaching/
   _30 hours | Role: Co-responsable, intervenante_  
   **In-person:** 15 hours (5C, 10TP) | _Since 2022_
 
-### **Supervised Modules (Institutional Representative and Teaching)**
+#### **Supervised Modules (Institutional Representative and Teaching)**
 - **2UE2TEC3 CYBER SECURITE**, ISAE-SUPAERO - Toulouse
   _20 hours | Role: Responsable_  
   **In-person:** 0 hours | _Since 2022_
 
-### **Participation in Modules**
+#### **Participation in Modules**
 - **1MAE206 Information Engineering**, ISAE-SUPAERO - Toulouse
   _30 hours | Role: Intervenante_  
   **In-person:** 18 hours (18TP) | _Since 2022_

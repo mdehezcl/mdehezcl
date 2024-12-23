@@ -3,8 +3,6 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
-## Publications
-
 1. Baptista, F., Dehez-Clementi, M., & Detchart, J. (2024). **DFly: A Publicly Auditable and Privacy-Preserving UAS Traffic Management System on Blockchain.** *MDPI Drones.*  
 2. Dehez-Clementi, M., Deneuville, J.C., Lochin, E., & Lacan, J. (2023). **BEAT-Traffic: A Blockchain-Enabled Infrastructure for Anonymous-yet-Traceable Traffic Reporting.** *53rd Annual IEEE/IFIP International Conference on Dependable Systems.*  
 3. Dehez-Clementi, M., Rabah, M., & Ghamri-Doudane, Y. (2023). **A Privacy-Preserving Proof-of-Reputation.** *IFIP Networking Conference.*  
